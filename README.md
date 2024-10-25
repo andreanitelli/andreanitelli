@@ -8,13 +8,14 @@
 
 Busco oportunidades de negócio na área de Ciência de Dados (Data Science), onde eu possa aplicar meus conhecimentos em análise de sistemas e contribuir para o desenvolvimento contínuo e eficiente, além de alcançar objetivos em comuns. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, já sou bacharel em Engenharia Civil e tenho mestrado (MSc) em Engenharia de Transportes pela USP. Tenho experiência em rotinas administrativas, gestão de dados e planilhas, KPIs, além de conhecimentos de criação de dashboard através do Power BI e programação Python, SQL, C# e Excel avançado. Falo português nativo, inglês avançado, espanhol intermediário e francês básico.
 
-  👉GitHub: github.com/andreanitelli
+    
+  👉 GitHub: https://github.com/andreanitelli
   
-  👉Linkedin: linkedin.com/in/andreanitelli
+  👉 Linkedin: www.linkedin.com/in/andreanitell
   
-  👉WhatApp: wa.me/19995082015
+  👉 WhatApp: https://wa.me/19995082015
   
-  👉vCard: qrplanet.com/f8ixy7
+  👉 vCard: https://qrplanet.com/f8ixy7
 
 <!---
 andreanitelli/andreanitelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
